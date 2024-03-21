@@ -4,7 +4,7 @@ This is a conversational question and answer (Q&A) chatbot built using Streamlit
 
 ## Live Demo
 
-Check out the live demo [here]([lisaf/Lang_chain_cono_AI](https://huggingface.co/spaces/lisaf/Lang_chain_cono_AI)).
+Check out the live demo [here]([lisaf/Lang_chain_cono_AI](https://huggingface.co/spaces/lisaf/Lang_chain_cono_AI).
 
 ## Usage
 
